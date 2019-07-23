@@ -5,7 +5,7 @@ long contactNumber;
 String emailAddress;
 String accountType;
 String website;
-
+double amount;
 public void receipt(Customer c){
 
 
